@@ -10,7 +10,7 @@ namespace GitHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World From Nishant");
+            Console.WriteLine("Hello World From User 1");
         }
     }
 }
