@@ -10,7 +10,8 @@ namespace GitHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World From all the Users");
+            // Sample comments added in the branch
+            Console.WriteLine("Hello World From all the Users");            
         }
     }
 }
